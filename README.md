@@ -8,6 +8,14 @@ This is a shortcut for Apple devices to get the utilization of a FitX studio.
 
 Dies ist ein Kurzbefehl für Apple Geräte, um die Auslastung eines FitX Studios abzurufen.
 
+### The Shortcut
+
+This is what it looks like.
+
+![Video of shortcut](shortcut.gif)
+
+### What it looks like in the shortcut app
+
 ![Foto vom Kurzbefehl aus der Kurzbefehl App](shortcut.png)
 
 ## List of all studios and their IDs
